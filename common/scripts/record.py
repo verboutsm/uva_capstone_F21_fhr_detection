@@ -1,5 +1,4 @@
 """Accessing and interacting with Record files"""
-"""Accessing and interacting with Record files"""
 # imports
 import matplotlib.pyplot as plt
 import numpy.ma as ma

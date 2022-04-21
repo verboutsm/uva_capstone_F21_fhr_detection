@@ -5,11 +5,6 @@ name = "pypi"
 
 [packages]
 tensorflow = "*"
-pandas = "*"
-tqdm = "*"
-matplotlib = "*"
-numpy = "*"
-keras = "*"
 
 [dev-packages]
 
